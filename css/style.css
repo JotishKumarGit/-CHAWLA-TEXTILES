@@ -516,3 +516,22 @@
 .copyright a:hover {
     color: var(--bs-primary);
 }
+
+
+/* blog sections css */
+/* Make all card images same size */
+.blog-img {
+    height: 250px;
+    /* fixed height for images */
+    width: 100%;
+    /* full width */
+    object-fit: cover;
+    /* crop images to fit */
+}
+
+/* Optional: Ensure all cards have same min height (including text & button) */
+.blog-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
