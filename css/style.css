@@ -1,5 +1,10 @@
 /********** Template CSS **********/
 
+* {
+    cursor: pointer;
+}
+
+
 .back-to-top {
     position: fixed;
     display: none;
