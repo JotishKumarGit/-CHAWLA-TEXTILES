@@ -41,171 +41,8 @@
     </div>
     <!-- Spinner End -->
 
-    <!-- Topbar Start -->
-    <div class="container-fluid bg-primary text-white d-none d-lg-flex wow fadeIn" data-wow-delay="0.1s">
-        <div class="container py-3">
-            <div class="d-flex gap-2 align-items-center">
-                <a href="index.html">
-                    <img src="./img/logo.webp" height="100px" width="100%" class="text-white fw-bold m-0" alt="">
-                </a>
-                <a href="index.html">
-                    <h2 class="text-white fw-bold m-0"> CHAWLA TEXTILES</h2>
-                </a>
-
-                <div class="ms-auto d-flex align-items-center">
-                    <small class="ms-4"><i class="fa fa-map-marker-alt me-3"></i>Khasra Number 1535 Janak Garden
-                        <br>Purewal Colony, Panipat-132103, Haryana, India</small>
-                    <small class="ms-4"><i class="fa fa-envelope me-3"></i>chawlatextiles@yahoo.com</small>
-                    <small class="ms-4"><i class="fa fa-phone-alt me-3"></i>+91 8295679454 | 9215264051</small>
-                    <div class="ms-3 d-flex">
-                        <a class="btn btn-sm-square btn-light text-primary ms-2" href=""><i
-                                class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-sm-square btn-light text-primary ms-2" href=""><i
-                                class="fab fa-twitter"></i></a>
-                        <a class="btn btn-sm-square btn-light text-primary ms-2" href=""><i
-                                class="fab fa-linkedin-in"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Topbar End -->
-
-    <!-- Navbar Start -->
-    <div class="container-fluid bg-white sticky-top wow fadeIn" data-wow-delay="0.1s">
-        <div class="container">
-            <nav class="navbar navbar-expand-lg bg-white navbar-light p-lg-0">
-
-                <!-- MOBILE LOGO -->
-                <a href="index.html" class="navbar-brand d-lg-none">
-                    <img src="./img/logo.webp" height="100" width="100" alt="">
-                </a>
-                <a href="index.html" class="navbar-brand d-none d-lg-none d-sm-block">
-                    <h1 class="fw-bold m-0">CHAWLA TEXTILES</h1>
-                </a>
-
-                <!-- TOGGLE -->
-                <button class="navbar-toggler me-0" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#navbarCollapse">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-
-                <div class="collapse navbar-collapse" id="navbarCollapse">
-
-                    <div class="navbar-nav">
-
-                        <a href="index.html" class="nav-item nav-link active">Home</a>
-                        <a href="about.html" class="nav-item nav-link">About</a>
-
-                        <!-- PRODUCTS MULTI LEVEL MENU -->
-                        <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Products</a>
-
-                            <ul class="dropdown-menu bg-white border-0">
-
-                                <!-- Cushion Covers -->
-                                <li class="dropdown-submenu">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Cushion Covers</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="Off-White-Tufted-Cushion-Cover.html">Off
-                                                White
-                                                Tufted Cushion Cover </a></li>
-                                        <li><a class="dropdown-item" href="Cotton-Cushion-Cover.html">Cotton Cushion
-                                                Cover</a></li>
-                                        <li><a class="dropdown-item" href="Printed-Velvet-Cushion-Cover.html">Printed
-                                                Velvet Cushion Cover </a></li>
-                                        <li><a class="dropdown-item" href="Polyester-Woven-Cushion-Cover.html">Polyester
-                                                Woven Cushion Cover </a></li>
-                                    </ul>
-                                </li>
-
-                                <!-- Floor Rugs -->
-                                <li class="dropdown-submenu">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Floor Rugs</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="Heart_Shape_Cotton_Rug.html">Heart Shape
-                                                Cotton Rug </a></li>
-                                        <li><a class="dropdown-item" href="Off_White_Polyester_Rug.html">Off White
-                                                Polyester Rug </a></li>
-                                        <li><a class="dropdown-item" href="Washable_Printed_Rugs.html">Washable Printed
-                                                Rugs </a></li>
-                                        <li><a class="dropdown-item" href="Digital_Printed_Cotton_Rugs.html">Digital
-                                                Printed Cotton Rugs </a></li>
-                                    </ul>
-                                </li>
-
-                                <!-- Table Mats -->
-                                <li class="dropdown-submenu">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Table Mats</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="Cotton_Table_Mat.html">Cotton Table Mat</a>
-                                        </li>
-                                        <li><a class="dropdown-item" href="Printed_Mat.html">Printed Mat </a></li>
-                                    </ul>
-                                </li>
-
-                                <!-- Floor Mat -->
-                                <li class="dropdown-submenu">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Floor Mat</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="Bathroom_Rug_Mat.html">Bathroom Rug Mat</a>
-                                        </li>
-                                        <li><a class="dropdown-item" href="Floral_Print_Door_Mat.html">Floral Print Door
-                                                Mat </a></li>
-                                        <li><a class="dropdown-item" href="Pink_Cotton_Door_Mat.html">Pink Cotton Door
-                                                Mat </a></li>
-                                        <li><a class="dropdown-item" href="Tufted_Bath_Mat.html">Tufted Bath Mat</a>
-                                        </li>
-                                    </ul>
-                                </li>
-
-                                <!-- Cotton Cushion -->
-                                <li class="dropdown-submenu">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Cotton Cushion</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="Striped_Cotton_Cushion.html">Striped Cotton
-                                                Cushion </a></li>
-                                        <li><a class="dropdown-item" href="Cotton_Floor_Cushion.html">Cotton Floor
-                                                Cushion </a></li>
-                                        <li><a class="dropdown-item" href="Cushion_Floor_Mat.html">Cushion Floor Mat
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <!-- Home Decor -->
-                                <li class="dropdown-submenu">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Home Decor</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="Pouf.html">Pouf</a></li>
-                                        <li><a class="dropdown-item" href="sofa_throw.html">Sofa Throw </a>
-                                        </li>
-                                        <li><a class="dropdown-item" href="Wall_decore.html">Wall Decor</a>
-                                        <li><a class="dropdown-item" href="Wall_hanging.html">Wall Hanging</a>
-                                        </li>
-                                    </ul>
-                                </li>
-
-                            </ul>
-                        </div>
-
-                        <a href="gallery.html" class="nav-item nav-link">Gallery</a>
-                        <a href="blog.html" class="nav-item nav-link">Blog</a>
-                        <a href="contact.html" class="nav-item nav-link">Contact</a>
-
-                    </div>
-
-                    <div class="ms-auto d-none d-lg-block">
-                        <a href="#" data-bs-toggle="modal" data-bs-target="#enquiryModal"
-                            class="btn btn-primary py-2 px-3">
-                            Enquiry
-                        </a>
-                    </div>
-
-                </div>
-            </nav>
-        </div>
-    </div>
-    <!-- Navbar End -->
+    <!-- header -->
+    <?php include('header.php') ?>
 
     <!-- Carousel Start -->
     <div class="container-fluid p-0 mb-6 wow fadeIn" data-wow-delay="0.1s">
@@ -227,21 +64,21 @@
                     <img class="w-100" src="img/Cushion-Cover-Banner.webp" alt="Image">
                     <div class="carousel-caption">
                         <h1 class="display-1 text-uppercase text-white mb-4 animated zoomIn">Soft Cushion Covers</h1>
-                        <a href="contact.html" class="btn btn-primary py-3 px-4">Explore More</a>
+                        <a href="contact.php" class="btn btn-primary py-3 px-4">Explore More</a>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img class="w-100" src="img/Floor-Rugs-banner.png" alt="Image">
                     <div class="carousel-caption">
                         <h1 class="display-1 text-uppercase text-white mb-4 animated zoomIn">Comfort Floor Rugs</h1>
-                        <a href="contact.html" class="btn btn-primary py-3 px-4">Explore More</a>
+                        <a href="contact.php" class="btn btn-primary py-3 px-4">Explore More</a>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img class="w-100" src="img/Table_Mats_baner.webp" alt="Image">
                     <div class="carousel-caption">
                         <h1 class="display-1 text-uppercase text-white mb-4 animated zoomIn">Elegant Table Mats</h1>
-                        <a href="contact.html" class="btn btn-primary py-3 px-4">Explore More</a>
+                        <a href="contact.php" class="btn btn-primary py-3 px-4">Explore More</a>
                     </div>
                 </div>
             </div>
@@ -321,7 +158,7 @@
                                 <h5 class="text-uppercase">Washable Printed Rugs</h5>
                                 <p>Durable and easy-to-clean printed rugs for any room.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Washable_Printed_Rugs.html">Read More<i
+                            <a class="btn btn-light px-3" href="Washable_Printed_Rugs.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -337,7 +174,7 @@
                                 <h5 class="text-uppercase">Tufted Bath Mat</h5>
                                 <p>Soft and absorbent bath mats with tufted design.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Tufted_Bath_Mat.html">Read More<i
+                            <a class="btn btn-light px-3" href="Tufted_Bath_Mat.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -353,7 +190,7 @@
                                 <h5 class="text-uppercase">Striped Cotton Cushion</h5>
                                 <p>Comfortable cotton cushions with stylish stripes.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Striped_Cotton_Cushion.html">Read More<i
+                            <a class="btn btn-light px-3" href="Striped_Cotton_Cushion.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -369,7 +206,7 @@
                                 <h5 class="text-uppercase">Printed Velvet Cushion Cover</h5>
                                 <p>Luxurious velvet cushion covers with vibrant prints.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Printed-Velvet-Cushion-Cover.html">Read More<i
+                            <a class="btn btn-light px-3" href="Printed-Velvet-Cushion-Cover.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -385,7 +222,7 @@
                                 <h5 class="text-uppercase">Printed Mat</h5>
                                 <p>Stylish printed mats for home or office use.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Printed_Mat.html">Read More<i
+                            <a class="btn btn-light px-3" href="Printed_Mat.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -401,7 +238,7 @@
                                 <h5 class="text-uppercase">Polyester Woven Cushion Cover</h5>
                                 <p>Durable polyester cushion covers with woven design.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Polyester-Woven-Cushion-Cover.html">Read More<i
+                            <a class="btn btn-light px-3" href="Polyester-Woven-Cushion-Cover.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -417,7 +254,7 @@
                                 <h5 class="text-uppercase">Pink Cotton Door Mat</h5>
                                 <p>Soft cotton door mats in charming pink color.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Pink_Cotton_Door_Mat.html">Read More<i
+                            <a class="btn btn-light px-3" href="Pink_Cotton_Door_Mat.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -433,7 +270,7 @@
                                 <h5 class="text-uppercase">Off White Tufted Cushion Cover</h5>
                                 <p>Elegant tufted cushion covers in off-white shade.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Off-White-Tufted-Cushion-Cover.html">Read More<i
+                            <a class="btn btn-light px-3" href="Off-White-Tufted-Cushion-Cover.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -449,7 +286,7 @@
                                 <h5 class="text-uppercase">Off White Polyester Floor Rug</h5>
                                 <p>Soft and elegant polyester floor rugs in off-white color.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Off_White_Polyester_Rug.html">Read More<i
+                            <a class="btn btn-light px-3" href="Off_White_Polyester_Rug.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -465,7 +302,7 @@
                                 <h5 class="text-uppercase">Heart Shape Cotton Rug</h5>
                                 <p>Adorable heart-shaped cotton rugs for any room.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Heart_Shape_Cotton_Rug.html">Read More<i
+                            <a class="btn btn-light px-3" href="Heart_Shape_Cotton_Rug.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -481,7 +318,7 @@
                                 <h5 class="text-uppercase">Floral Print Door Mat</h5>
                                 <p>Charming printed door mats with floral prints.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Floral_Print_Door_Mat.html">Read More<i
+                            <a class="btn btn-light px-3" href="Floral_Print_Door_Mat.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -497,7 +334,7 @@
                                 <h5 class="text-uppercase">Digital Printed Cotton Rugs</h5>
                                 <p>Vibrant digital prints on soft cotton rugs.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Digital_Printed_Cotton_Rugs.html">Read More<i
+                            <a class="btn btn-light px-3" href="Digital_Printed_Cotton_Rugs.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -513,7 +350,7 @@
                                 <h5 class="text-uppercase">Cotton Table Mat</h5>
                                 <p>Durable cotton table mats for daily use.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Cotton_Table_Mat.html">Read More<i
+                            <a class="btn btn-light px-3" href="Cotton_Table_Mat.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -529,7 +366,7 @@
                                 <h5 class="text-uppercase">Cotton Floor Cushion</h5>
                                 <p>Durable cotton floor cushion for indoor and outdoor use.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Cotton_Floor_Cushion.html">Read More<i
+                            <a class="btn btn-light px-3" href="Cotton_Floor_Cushion.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -545,7 +382,7 @@
                                 <h5 class="text-uppercase">Cotton Cushion Cover</h5>
                                 <p>Soft cotton cushion covers available in multiple colors.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Cotton-Cushion-Cover.html">Read More<i
+                            <a class="btn btn-light px-3" href="Cotton-Cushion-Cover.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -561,7 +398,7 @@
                                 <h5 class="text-uppercase">Bathroom Rug Mat</h5>
                                 <p>Soft and absorbent bathroom rug mats for comfort.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Bathroom_Rug_Mat.html">Read More<i
+                            <a class="btn btn-light px-3" href="Bathroom_Rug_Mat.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -576,7 +413,7 @@
                                 <h5 class="text-uppercase">Wall Hanging</h5>
                                 <p>Beautiful decorative wall hanging to enhance your home’s interior charm.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Wall_hanging.html">Read More<i
+                            <a class="btn btn-light px-3" href="Wall_hanging.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -591,7 +428,7 @@
                                 <h5 class="text-uppercase">Wall Decor</h5>
                                 <p>Stylish wall décor to add elegance and character to any room.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Wall_decore.html">Read More<i
+                            <a class="btn btn-light px-3" href="Wall_decore.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -606,7 +443,7 @@
                                 <h5 class="text-uppercase">Sofa Throw</h5>
                                 <p>Soft and stylish sofa throw to add comfort and a cozy touch to your space.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="sofa_throw.html">Read More<i
+                            <a class="btn btn-light px-3" href="sofa_throw.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -621,7 +458,7 @@
                                 <h5 class="text-uppercase">Pouf</h5>
                                 <p>Comfortable and stylish pouf for extra seating and modern home décor.</p>
                             </div>
-                            <a class="btn btn-light px-3" href="Pouf.html">Read More<i
+                            <a class="btn btn-light px-3" href="Pouf.php">Read More<i
                                     class="bi bi-chevron-double-right ms-1"></i></a>
                         </div>
                     </div>
@@ -1291,7 +1128,7 @@
                             <h5 class="card-title">Choosing the Perfect Floor Rug for Your Home</h5>
                             <p class="card-text text-muted flex-grow-1">Explore tips on selecting the ideal comfort
                                 floor rugs to elevate your living space.</p>
-                            <a href="contact.html" class="btn btn-sm text-white mt-2" style="background:#c58624;">Read
+                            <a href="contact.php" class="btn btn-sm text-white mt-2" style="background:#c58624;">Read
                                 More</a>
                         </div>
                     </div>
@@ -1305,7 +1142,7 @@
                             <h5 class="card-title">Top Trends in Textile Design for 2025</h5>
                             <p class="card-text text-muted flex-grow-1">Stay updated with the latest textile patterns
                                 and colors that are trending this year.</p>
-                            <a href="contact.html" class="btn btn-sm text-white mt-2" style="background:#c58624;">Read
+                            <a href="contact.php" class="btn btn-sm text-white mt-2" style="background:#c58624;">Read
                                 More</a>
                         </div>
                     </div>
@@ -1319,7 +1156,7 @@
                             <h5 class="card-title">How to Care for Your Textiles and Rugs</h5>
                             <p class="card-text text-muted flex-grow-1">Learn the best practices for cleaning and
                                 maintaining your textiles to keep them fresh.</p>
-                            <a href="contact.html" class="btn btn-sm text-white mt-2" style="background:#c58624;">Read
+                            <a href="contact.php" class="btn btn-sm text-white mt-2" style="background:#c58624;">Read
                                 More</a>
                         </div>
                     </div>
@@ -1462,231 +1299,5 @@
     </div>
     <!-- Newsletter Start -->
 
-    <!-- Enquiry Modal -->
-    <div class="modal fade" id="enquiryModal" tabindex="-1" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-
-                <!-- Modal Header -->
-                <div class="modal-header" style="background:#c58624; color:#fff;">
-                    <h5 class="modal-title">Send Enquiry</h5>
-                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
-                </div>
-
-                <!-- Modal Body -->
-                <div class="modal-body">
-                    <form id="enquiryForm">
-
-                        <div class="row g-3">
-                            <div class="col-md-6">
-                                <label for="name" class="form-label fw-semibold">Name</label>
-                                <input type="text" class="form-control" id="name" required>
-                            </div>
-
-                            <div class="col-md-6">
-                                <label for="email" class="form-label fw-semibold">Email</label>
-                                <input type="email" class="form-control" id="email" required>
-                            </div>
-
-                            <div class="col-md-6">
-                                <label for="phone" class="form-label fw-semibold">Phone Number</label>
-                                <input type="tel" class="form-control" id="phone" required>
-                            </div>
-
-                            <div class="col-md-6">
-                                <label for="subject" class="form-label fw-semibold">Subject</label>
-                                <input type="text" class="form-control" id="subject" required>
-                            </div>
-
-                            <div class="col-12">
-                                <label for="message" class="form-label fw-semibold">Message</label>
-                                <textarea class="form-control" id="message" rows="3" required></textarea>
-                            </div>
-                        </div>
-
-                        <button type="submit" class="btn w-100 text-white mt-3" style="background:#c58624;">
-                            Submit & WhatsApp
-                        </button>
-                    </form>
-                </div>
-
-            </div>
-        </div>
-    </div>
-
-    <!-- enquiry modal script -->
-    <script>
-        document.getElementById("enquiryForm").addEventListener("submit", function (event) {
-            event.preventDefault();
-
-            let name = document.getElementById("name").value;
-            let email = document.getElementById("email").value;
-            let phone = document.getElementById("phone").value;
-            let subject = document.getElementById("subject").value;
-            let message = document.getElementById("message").value;
-
-            // Replace with your WhatsApp business or personal number
-            let whatsappNumber = "918295679454";
-
-            let whatsappMessage =
-                `*New Website Enquiry*%0A%0A` +
-                `*Name:* ${name}%0A` +
-                `*Email:* ${email}%0A` +
-                `*Phone:* ${phone}%0A` +
-                `*Subject:* ${subject}%0A` +
-                `*Message:* ${message}`;
-
-            // Open WhatsApp chat
-            window.open(`https://wa.me/${whatsappNumber}?text=${whatsappMessage}`, "_blank");
-        });
-    </script>
-
-    <!-- Footer Start -->
-    <div class="container-fluid bg-dark footer py-5 wow fadeIn" data-wow-delay="0.1s">
-        <div class="container py-5">
-            <div class="row g-5">
-                <div class="col-lg-3 col-md-6">
-                    <h5 class="text-uppercase text-light mb-4">Our Office</h5>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>Khasra Number 1535 Janak
-                        Garden
-                        Purewal Colony, Panipat-132103, Haryana, India</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+91 8295679454 | 9215264051</p>
-                    <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>ichawlatextiles@yahoo.com</p>
-                    <div class="d-flex pt-3">
-                        <a class="btn btn-square btn-light me-2" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-light me-2" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-light me-2" href=""><i class="fab fa-youtube"></i></a>
-                        <a class="btn btn-square btn-light me-2" href=""><i class="fab fa-linkedin-in"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <h5 class="text-uppercase text-light mb-4">Quick Links</h5>
-                    <a class="btn btn-link" href="about.html">About Us</a>
-                    <a class="btn btn-link" href="contact.html">Contact Us</a>
-                    <a class="btn btn-link" href="blog.html">Blog</a>
-                    <a class="btn btn-link" href="gallery.html">Gallery</a>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <h5 class="text-uppercase text-light mb-4">Business Hours</h5>
-                    <p class="text-uppercase mb-0">Monday - Friday</p>
-                    <p>09:00 am - 07:00 pm</p>
-                    <p class="text-uppercase mb-0">Saturday</p>
-                    <p>09:00 am - 12:00 pm</p>
-                    <p class="text-uppercase mb-0">Sunday</p>
-                    <p>Closed</p>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <h5 class="text-uppercase text-light mb-4">Gallery</h5>
-                    <div class="row g-1">
-                        <div class="col-4">
-                            <img class="img-fluid" src="img/gallery/g_1.webp" alt="">
-                        </div>
-                        <div class="col-4">
-                            <img class="img-fluid" src="img/gallery/g_10.webp" alt="">
-                        </div>
-                        <div class="col-4">
-                            <img class="img-fluid" src="img/gallery/g_11.webp" alt="">
-                        </div>
-                        <div class="col-4">
-                            <img class="img-fluid" src="img/gallery/g_12.webp" alt="">
-                        </div>
-                        <div class="col-4">
-                            <img class="img-fluid" src="img/gallery/g_14.webp" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Footer End -->
-
-    <!-- Copyright Start -->
-    <div class="container-fluid text-body copyright py-4">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a class="fw-semi-bold" href="#">CHAWLA TEXTILES</a>, All Right Reserved.
-                </div>
-                <div class="col-md-6 text-center text-md-end">
-                    Designed By <a class="fw-semi-bold" href="https://trade4export.com">Trade4Export</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Copyright End -->
-
-    <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
-
-    <!-- JavaScript Libraries -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-
-    <!-- Template Javascript -->
-    <script src="js/main.js"></script>
-
-    <!-- sending message on whatsapp -->
-    <script>
-        function sendWhatsApp() {
-            let name = document.getElementById("name").value;
-            let mail = document.getElementById("mail").value;
-            let mobile = document.getElementById("mobile").value;
-            let subject = document.getElementById("subject").value;
-            let message = document.getElementById("message").value;
-
-            let whatsappNumber = "918295679454"; // ← Your WhatsApp number (without +)
-
-            let url = "https://wa.me/" + whatsappNumber + "?text="
-                + "Name: " + name + "%0A"
-                + "Email: " + mail + "%0A"
-                + "Mobile: " + mobile + "%0A"
-                + "Subject: " + subject + "%0A"
-                + "Message: " + message;
-
-            window.open(url, "_blank");
-        }
-    </script>
-
-    <!-- dropdown -->
-    <script>
-        document.addEventListener("DOMContentLoaded", function () {
-
-            // For mobile – click to open submenu
-            document.querySelectorAll('.dropdown-submenu > a').forEach(function (element) {
-                element.addEventListener('click', function (e) {
-
-                    if (window.innerWidth < 992) {
-                        e.preventDefault();
-
-                        let parent = this.parentElement;
-                        let submenu = this.nextElementSibling;
-
-                        parent.classList.toggle("show");
-
-                        if (submenu) {
-                            submenu.style.display =
-                                submenu.style.display === "block" ? "none" : "block";
-                        }
-
-                        // Close other open menus
-                        document.querySelectorAll(".dropdown-submenu").forEach((item) => {
-                            if (item !== parent) {
-                                item.classList.remove("show");
-                                let inner = item.querySelector(".dropdown-menu");
-                                if (inner) inner.style.display = "none";
-                            }
-                        });
-                    }
-                });
-            });
-
-        });
-    </script>
-
-</body>
-
-</html>
+    <!-- footer -->
+    <?php include('footer.php') ?>
